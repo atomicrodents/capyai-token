@@ -6,13 +6,12 @@
   "directories": {
     "test": "test"
   },
-  "dependencies": {},
   "devDependencies": {
-    "@openzeppelin/contracts": "^4.3.0",
+    "@openzeppelin/contracts": "^4.9.6",
     "@openzeppelin/contracts-upgradeable": "^4.3.0",
     "@openzeppelin/test-helpers": "^0.5.15",
     "@openzeppelin/truffle-upgrades": "^1.8.1",
-    "@truffle/hdwallet-provider": "^1.4.3",
+    "@truffle/hdwallet-provider": "^1.7.0",
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
     "truffle": "^5.4.6",
